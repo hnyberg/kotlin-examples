@@ -9,3 +9,5 @@ build/
 .externalNativeBuild
 WorkspaceSettings.xcsettings
 *.xcuserstate
+
+gradle/android-auto-parcel/app/src/main/gen/auto/parcel/sample/BuildConfig.java
